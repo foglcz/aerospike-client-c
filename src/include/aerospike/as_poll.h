@@ -16,6 +16,8 @@
  */
 #pragma once
 
+#include <sys/select.h>
+
 #ifdef __cplusplus
 extern "C" {
 #endif
